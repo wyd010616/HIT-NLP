@@ -1,0 +1,3 @@
+seg_LM.txt的准确率P为：0.990177
+seg_LM.txt的召回率R为：0.982419
+seg_LM.txt的F值F为：0.986283

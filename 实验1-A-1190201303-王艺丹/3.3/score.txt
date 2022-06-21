@@ -1,0 +1,7 @@
+seg_FMM.txt的准确率P_FMM为：0.978184
+seg_FMM.txt的召回率R_FMM为：0.970957
+seg_FMM.txt的F值F_FMM为：0.974557
+
+seg_BMM.txt的准确率P_BMM为：0.980141
+seg_BMM.txt的召回率R_BMM为：0.972877
+seg_BMM.txt的F值F_BMM为：0.976495
